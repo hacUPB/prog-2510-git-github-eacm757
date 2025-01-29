@@ -30,7 +30,6 @@ Los comandos más utilizados para trabajar con archivos incluyen:
 - **`cp [archivo_origen] [archivo_destino]`** → Copia un archivo.
 - **`rm [nombre_archivo]`** → Elimina un archivo.
 
-## Conclusión
-El dominio de estos comandos permite navegar eficientemente por el sistema de archivos y realizar tareas básicas de gestión de archivos y directorios. Con la práctica, el uso de la consola se vuelve una herramienta poderosa para cualquier usuario o desarrollador.
+
 
 
