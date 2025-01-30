@@ -1,3 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3WK28ho-)
+# Bitácora
+Nombre del estudiante: Esteban Caicedo 
+Id.: 000564344
+
 # Descripción del proyecto 
 Este proyecto tiene como objetivo principal estructurar y organizar un proyecto de programación sencillo utilizando Git y GitHub. Más allá del código fuente, el enfoque está en la correcta gestión del repositorio y el uso de comandos de Git.
 
