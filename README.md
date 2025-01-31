@@ -4,13 +4,13 @@ Nombre del estudiante: Esteban Caicedo
 Id.: 000564344
 
 # Descripción del proyecto 
-Este proyecto tiene como objetivo principal estructurar y organizar un proyecto de programación sencillo utilizando Git y GitHub. Más allá del código fuente, el enfoque está en la correcta gestión del repositorio y el uso de comandos de Git.
+Este proyecto tiene como objetivo principal estructurar y organizar un proyecto de programación sencillo utilizando Git y GitHub. Más allá del código fuente, el enfoque está en la correcta gestión del repositorio y el uso de comandos de Git
 
 ## Objetivos del Proyecto:
 - Aprender a utilizar la consola para navegar entre directorios y gestionar archivos.
 - Crear y administrar repositorios locales con Git.
 - Configurar un repositorio remoto en GitHub y sincronizarlo con el local.
-- Aplicar buenas prácticas en la organización de un proyecto mediante la documentación y el uso de archivos como .gitignore.
+- Aplicar buenas prácticas en la organización de un proyecto mediante la documentación y el uso de archivos como .gitignore
 
 ## Pasos para clonar y ejecutar el proyecto 
 - Ir al repositorio en github y copiar la URL del repositorio
