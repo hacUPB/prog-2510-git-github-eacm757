@@ -14,24 +14,31 @@ Este proyecto tiene como objetivo principal estructurar y organizar un proyecto 
 
 ## Pasos para clonar y ejecutar el proyecto 
 - Ir al repositorio en github y copiar la URL del repositorio
+
+![alt text](mi_proyecto/imagenes/SS13.png)
+
 - Abrir gitbash en nuestro computador 
 - Ir a la carpeta donde queremos clonar el proyecto 
 - Ejecutamos el comando: **git clone** mas la URL
+
+![alt text](mi_proyecto/imagenes/SS12.png)
+
 - Por ultimo verificamos su estado con el comando **git status**
 
 # Tabla de contenido 
 - # [Mi_proyecto](mi_proyecto)
 
 ## [src](mi_proyecto/src)
-   - [Código_fuente](src/codigo_fuente.py)
+   - [Código_fuente](mi_proyecto/src/codigo_fuente.py)
 
 ## [Documentos](mi_proyecto/docs)
-   - [Repositorio_Local](docs/repositorio_local.md)
-   - [Repositorio_Remoto](docs/repositorio_remoto.md)
-   - [Uso_consola](docs/uso_consola.md)
+   - [Repositorio_Local](mi_proyecto/docs/repositorio_local.md)
+   - [Repositorio_Remoto](mi_proyecto/docs/repositorio_remoto.md)
+   - [Uso_consola](mi_proyecto/docs/uso_consola.md)
 
 ## [Imagenes](mi_proyecto/imagenes)
-   - [Imagen1](imagenes/SS1.png)
-   - [Imagen7](imagenes/SS7.png)
+   - [Imagen1](mi_proyecto/imagenes/SS1.png)
+   - [Imagen7](mi_proyecto/imagenes/SS7.png)
+   - [Imagen13](mi_proyecto/imagenes/SS13.png)
 
   
